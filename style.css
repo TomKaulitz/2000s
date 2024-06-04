@@ -1,0 +1,891 @@
+body {
+    font-family: sans-serif;
+}
+.pop{
+    width: 1363px;
+    height: 669px;
+    flex-shrink: 0;
+}
+.rmem{
+   width: 1363px;
+   height: 132px;
+   flex-shrink: 0;
+   color: #000;
+   font-family: Just Me Again Down Here;
+   font-size: 96px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+   background-color: #FC6BCA;
+   text-align:center;
+}
+.memr{
+    width: 847px;
+    height: 80px;
+    flex-shrink: 0;
+    background: #FFFD04;
+    color: #000;
+    font-family: Just Me Again Down Here;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.favor{
+    color: #000;
+    font-family: Jura;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    ine-height: normal;
+}
+.iti{
+    color: #000;
+    text-align: center;
+    font-family: Just Me Again Down Here;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.th{
+    width: 495px;
+    height: 350px;
+
+}
+.mus{       
+    width: 1347px;
+    height: 967px;
+    flex-shrink: 0;
+}
+.sum{
+    width: 751px;
+    height: 571px;
+    flex-shrink: 0;
+    float:right;
+}
+.pifd{
+    display:flex;
+    justify-content:center;
+}
+.texth{
+    display: flex;
+    justify-content: space-around;
+    width: 440px;
+    height: 462px;
+    float: left;
+}
+.texht{
+    color: #000;
+    font-family: Jura;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.grey{
+    position: relative;
+    width: 1363px;
+    height: 797px;
+    background: #D9D9D9;
+}
+.disk{
+    position: absolute;
+    top:3176px;
+}
+.thth{
+position: absolute;
+width: 1390.07px;
+height: 1606px;
+left: -8.07px;
+top: 3560px;
+}
+.avi{
+    width: 1017px;
+    height: 137px;
+    text-align: right;
+    color: #000;
+    font-family: Jura;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.phiavi{
+    width: 1363px;
+    height: 890px;
+    flex-shrink: 0;
+}
+.born{
+   color: #000;
+    font-family: Jura;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal; 
+}
+.stage{
+    width: 1347px;
+    height: 1036.845px;
+    flex-shrink: 0;
+}
+.born{
+    width: 1315px;
+    height: 492px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Jura;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.bonr{
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.tt{
+    color: #000;
+    font-family: Just Me Again Down Here;
+    font-size: 128px;
+}
+.let{
+    float:left;
+    margin-left: 20px;
+}
+.uli{
+    color: #000;
+font-family: Just Me Again Down Here;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.letgo{
+    position: relative;
+    float: right;
+    margin-right: 20px;
+    width: 865.583px;
+    height: 695.22px;
+}
+.h{
+    color: #000;
+font-family: Just Me Again Down Here;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.golet{
+    position: relative;
+}
+.vi{
+    position: relative;
+    width: 897px;
+height: 529px;
+flex-shrink: 0;
+float:right;
+}
+.de{
+    position: relative;
+    width: 1363px;
+height: 465px;
+flex-shrink: 0;
+}
+.oe{
+    position: relative;
+    width: 936px;
+height: 529px;
+flex-shrink: 0;
+float:left;
+}
+.mm{
+    position: relative;
+}
+.tm{
+   width: 772px;
+height: 256px;
+flex-shrink: 0;
+float:left;
+margin: 39px 35px 19px 33px; 
+}
+.rfhnbyrf{
+    position: relative;
+    float: left;
+}
+.pmp{
+    position: relative;
+    width: 412px;
+height: 387px;
+flex-shrink: 0;
+margin: 130px 56px 175px 57px;
+}
+.mmm{
+    position: relative;
+    float: right;
+    margin-right: 46px; 
+    margin-left: 239px;
+}
+.mmmm{
+    position: relative;
+    width: 748px;
+height: 294px;
+flex-shrink: 0;
+margin: 73px 49px 9px 43px;
+}
+.avtg{
+    position: relative;
+    margin: 261px 100px 214px 106px;
+}
+.usic{
+position: absolute;
+width: 269px;
+height: 153px;
+left: 805px;
+top: 14365px;
+font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 231px;
+color: #000000;
+}
+.mici{
+position: absolute;
+width: 244.49px;
+height: 219px;
+left: 987px;
+top: 14567px;
+}
+.britexp{
+position: absolute;
+width: 1558px;
+height: 1623.59px;
+left: -42px;
+top: 15896px;
+}
+.oito{
+box-sizing: border-box;
+position: absolute;
+width: 628px;
+height: 652px;
+left: 53px;
+top: 17465px;
+border: 14px solid #000000;
+}
+.eert{
+box-sizing: border-box;
+position: absolute;
+width: 628px;
+height: 652px;
+left: 53px;
+top: 18199px;
+border: 15px solid #000000;
+}
+.fty{
+position: absolute;
+width: 523px;
+height: 1200px;
+left: 712px;
+top: 17468px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.ert{
+box-sizing: border-box;
+position: absolute;
+width: 628px;
+height: 652px;
+left: 53px;
+top: 17465px;
+background: url(Britney_Spears_-_Britney.png);
+}
+.class{
+position: absolute;
+width: 1294px;
+height: 1129px;
+left: 0px;
+top: 14767px;
+}
+.avrtu{
+position: absolute;
+width: 1413px;
+height: 1069px;
+left: -25px;
+top: 10900px;
+}
+.frieky{
+position: absolute;
+width: 1318px;
+height: 933px;
+left: 20px;
+top: 5090px;
+}
+.muve{
+position: absolute;
+width: 519px;
+height: 58px;
+left: 174px;
+top: 5941px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+color: #000000;
+}
+.geusd{
+position: absolute;
+width: 513px;
+height: 56px;
+left: 446px;
+top: 12033px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+color: #000000;
+}
+.lago{
+position: absolute;
+width: 791px;
+height: 113px;
+left: 491px;
+top: 16049px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+text-align: center;
+color: #000000;
+}
+.leg{
+position: absolute;
+width: 554px;
+height: 92px;
+left: 609px;
+top: 16171px;
+font-family: 'Koulen';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 116px;
+text-align: center;
+color: #38647B;
+}
+.mrove{
+position: absolute;
+width: 2256.4px;
+height: 1083px;
+left: -430px;
+top: 20306px;
+}
+.purple{
+position: absolute;
+width: 570px;
+height: 622.53px;
+left: 327.91px;
+top: 18783px;
+background: url(pngegg (8).png);
+border-radius: 50px;
+transform: rotate(26.21deg);
+}
+.dft{
+box-sizing: border-box;
+position: absolute;
+width: 547px;
+height: 822px;
+left: 725px;
+top: 18624px;
+background: url(Thriller_platinum_record,_Hard_Rock_Cafe_Hollywood.jpg);
+border: 14px solid #000000;
+}
+.asd{
+position: absolute;
+width: 1320.94px;
+height: 1084.51px;
+left: 88px;
+top: 19422px;
+}
+.qwe{
+position: absolute;
+width: 1394.09px;
+height: 1157.52px;
+left: 0px;
+top: 21511px;
+}
+
+.bhj{
+width: 435px;
+height: 684px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.rty{
+position: absolute;
+width: 627px;
+height: 899px; 
+background: url(christina-aguilera-then-and-now-3.png);
+}
+.stre{
+position: absolute;
+width: 840.93px;
+height: 688.44px;
+left: 14px;
+top: 23172px;
+}
+.xt{
+position: absolute;
+width: 948px;
+height: 148px;
+left: 349px;
+top: 23860px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 192px;
+color: #2C6490;
+}
+.frd{
+position: absolute;
+width: 809px;
+height: 228px;
+left: 14px;
+top: 24056px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.hp{
+box-sizing: border-box;
+position: absolute;
+width: 475px;
+height: 513px;
+left: 874px;
+top: 24056px;
+background: url(640d74bf-aece-466d-a8e3-eaa7bf1b291c_1170x1156.jpg);
+}
+.hp{
+box-sizing: border-box;
+position: absolute;
+width: 799px;
+height: 380px;
+left: 5px;
+top: 24313px;
+background: url(ehDUw2M.jpg);
+}
+.xdc{
+position: absolute;
+width: 103px;
+height: 73px;
+left: 888px;
+top: 24588px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;
+}
+.hyp{
+box-sizing: border-box;
+position: absolute;
+width: 790px;
+height: 402px;
+left: 14px;
+top: 24732px;
+background: url(l-intro-1599341088.jpg);
+}
+.njih{
+position: absolute;
+width: 486px;
+height: 494px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.hjk{
+position: absolute;
+width: 100px;
+height: 82px;
+left: 24px;
+top: 25167px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;
+}
+.vbn{
+position: absolute;
+width: 486px;
+height: 798px;
+left: 25px;
+top: 25271px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.klm{
+box-sizing: border-box;
+position: absolute;
+width: 733px;
+height: 532px;
+left: 615px;
+top: 25249px;
+background: url(rs_1024x759-140410133144-1024.britney-Madonna-Christina-VMA.jl.png);
+}
+.ghjp{
+box-sizing: border-box;
+position: absolute;
+width: 558px;
+height: 722px;
+left: 14px;
+top: 26100px;
+background: url(191217131115-03-christina-aguilera-midriff-file-restricted.jpg);
+}
+.asdfwe{   
+position: absolute;
+width: 104px;
+height: 82px;
+left: 637px;
+top: 25812px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490; 
+}
+.xcvb{
+position: absolute;
+width: 682px;
+height: 1178px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.wer{
+position: absolute;
+width: 407px;
+height: 328px;
+left: 230px;
+top: 26822px;
+background: url(pngegg (14).png);
+}
+.oo{
+position: absolute;
+width: 95px;
+height: 95px;
+left: 32px;
+top: 27038px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;
+}
+.dert{
+position: absolute;
+width: 449px;
+height: 342px;
+left: 32px;
+top: 27143px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.qqq{
+box-sizing: border-box;
+position: absolute;
+width: 629.34px;
+height: 664.69px;
+left: 645.6px;
+top: 27138.82px;
+background: url(2235.jpg);
+border: 9px solid #000000;
+transform: rotate(-0.35deg); 
+}
+.ooo{
+position: absolute;
+width: 498px;
+height: 367px;
+left: 174px;
+top: 27478px;
+}
+.h{
+position: absolute;
+width: 95px;
+height: 84px;
+left: 56px;
+top: 27735px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;
+}
+.rew{
+position: absolute;
+width: 1057px;
+height: 124px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.mbn{
+position: absolute;
+width: 1189px;
+height: 374px;
+left: 90px;
+top: 27964px;
+}
+.lpo{
+position: absolute;
+width: 80px;
+height: 75px;
+left: 56px;
+top: 28286px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;
+}
+.iuy{
+position: absolute;
+width: 1268px;
+height: 296px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.xcvc{
+position: absolute;
+width: 874px;
+height: 469px;
+left: 47px;
+top: 28755px;
+background: url(BRIT20BODYSHAME20deefault-land-GettyImages-1376979215.png);
+}
+.nbver{
+position: absolute;
+width: 99px;
+height: 97px;
+left: 954px;
+top: 28706px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;  
+}
+.uyt{
+position: absolute;
+width: 423px;
+height: 402px;
+left: 931px;
+top: 28807px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000; 
+}
+.wasd{
+position: absolute;
+width: 1214px;
+height: 114px;
+left: 65px;
+top: 29259px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.wsx{
+position: absolute;
+width: 96px;
+height: 77px;
+left: 71px;
+top: 29420px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 96px;
+color: #2C6490;
+}
+.vcxz{
+position: absolute;
+width: 947px;
+height: 106px;
+left: 71px;
+top: 29544px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000; 
+}
+.qaz{
+position: absolute;
+width: 1250px;
+height: 82px;
+left: 47px;
+top: 28637px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.olm{
+position: absolute;
+width: 874px;
+height: 76px;
+left: 65px;
+top: 29695px;
+font-family: 'Jura';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+}
+.mnbvcxz{
+position: absolute;
+width: 384px;
+height: 391px;
+left: 970px;
+top: 29464px;
+background: url(pngegg (9).png);
+
+}
+.dfggfd{
+position: absolute;
+width: 1243px;
+height: 877px;
+left: 71px;
+top: 29986px;
+
+ 
+}
+.sdffds{
+position: absolute;
+width: 1040px;
+height: 150px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 192px;
+color: #000000;
+}
+.rght{
+position: absolute;
+width: 386px;
+height: 142px;
+left: 104px;
+top: 30903px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 192px;
+color: #6E613D;
+border: 1px solid #000000;
+  
+}
+.shok{
+position: absolute;
+width: 385px;
+height: 145px;
+left: 442px;
+top: 30969px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 192px;
+color: #6E613D;
+border: 1px solid #000000;
+}
+.fghj{
+position: absolute;
+width: 1687.02px;
+height: 2655.07px;
+left: -21px;
+top: 31156px;
+}
+.edfg{
+position: absolute;
+width: 839px;
+height: 340px;
+left: 579px;
+top: 33534px;
+font-family: 'Just Me Again Down Here';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 192px;
+text-align: center;
+color: #000000; 
+}
+.poirt{
+position: absolute;
+width: 1178px;
+height: 1772px;
+left: 63px;
+top: 33752px;
+}
+.tgb{
+position: absolute;
+width: 1442px;
+height: 1012px;
+left: -15px;
+top: 35246px; 
+}
